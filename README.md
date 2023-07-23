@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dinoiss
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning codeing
-- 💞️ I’m not looking to collaborate on
 - 👨‍🎓 I try to understand codeing
 
 <!---
